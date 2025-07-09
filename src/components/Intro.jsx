@@ -93,8 +93,8 @@ export function IntroFooter() {
     return (
         <p className="flex items-baseline gap-x-2 text-[0.8125rem]/6 text-gray-500">
             Brought to you by{' '}
-            <IconLink href="https://x.com/0xShomari" icon={XIcon} compact>
-                0xShomari
+            <IconLink href="https://x.com/L1Runr" target="_blank" icon={XIcon} compact>
+                @L1Runr
             </IconLink>
             for
             <Link href="https://retro9000.avax.network/discover-builders/cm490lkn9004bbuff1hmdkj8r" target="_blank" className="font-medium text-rose-400 hover:text-rose-300">

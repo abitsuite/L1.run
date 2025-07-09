@@ -73,7 +73,7 @@ export function Intro() {
             <ScriptCommand />
 
             <div className="mt-8 flex flex-wrap justify-center gap-x-1 gap-y-3 sm:gap-x-2 lg:justify-start">
-                <IconLink href="https://docs.layer1.run" target="_blank" icon={BookIcon} className="flex-none">
+                <IconLink href="https://docs.l1.run" target="_blank" icon={BookIcon} className="flex-none">
                     ReadTheDocs
                 </IconLink>
 

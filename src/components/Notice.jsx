@@ -123,7 +123,7 @@ export function NodeRunr() {
 
                         <div className="mt-3 sm:mt-2 flex flex-row gap-3">
                             <Link
-                                href="https://canvas.layer1.run"
+                                href="https://canvas.l1.run"
                                 target="_blank"
                                 className="inline-flex w-full items-center justify-center rounded-md bg-sky-600 px-3 py-2 text-lg font-semibold text-white shadow-sm hover:bg-sky-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-600"
                             >
@@ -132,7 +132,7 @@ export function NodeRunr() {
                             </Link>
 
                             <Link
-                                href="https://docs.layer1.run"
+                                href="https://docs.l1.run"
                                 target="_blank"
                                 className="inline-flex w-full items-center justify-center rounded-md bg-sky-600 px-3 py-2 text-lg font-semibold text-white shadow-sm hover:bg-sky-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-sky-600"
                             >

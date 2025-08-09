@@ -22,9 +22,9 @@ const monaSans = localFont({
 })
 
 export const metadata = {
-    title: 'NodΞRunr by L1 GÜRŲ',
+    title: 'NodΞRunr by aBitSuite',
     description:
-        'NodΞRunr is a lightweight, smart daemon delivering effortless SysOps to Avalanche Founders and Teams.',
+        'NodΞRunr is a lightweight FOSS smart daemon that provides effortless SysOps for Avalanche L1 node operators.',
 }
 
 export default function RootLayout({ children }) {

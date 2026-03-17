@@ -6,7 +6,7 @@ import { Button } from '@/components/Button'
 
 const copyToClipboard = () => {
     /* Copy to clipboard. */
-    navigator.clipboard.writeText('curl -sSL https://L1.run/linux | bash')
+    navigator.clipboard.writeText('curl -sSL https://L1.run/noderunr | bash')
         .then(() => console.log('Remote script command copied to clipboard!'))
         .catch((error) => console.error('Error copying to clipboard:', error))
 
@@ -24,7 +24,7 @@ export function ScriptCommand() {
             <div className="relative isolate mt-8 flex items-center pr-1">
                 <input
                     id={id}
-                    defaultValue="curl -sSL https://L1.run/linux | bash"
+                    defaultValue="curl -sSL https://L1.run/noderunr | bash"
                     className="peer w-0 flex-auto bg-transparent px-4 py-2.5 text-xs text-amber-200 tracking-wider focus:outline-none sm:text-[0.85rem]"
                 />
 
@@ -37,7 +37,7 @@ export function ScriptCommand() {
             </div>
 
             <small className="pl-3 pt-2 text-xs text-slate-100 tracking-wider">
-                ↑ paste into your Linux, <span className="line-through">macOS</span> or WSL terminal ↑
+                ↑ paste into your Linux, macOS or WSL terminal ↑
             </small>
         </>
     )

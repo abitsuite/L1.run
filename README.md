@@ -22,5 +22,5 @@ NodΞRunr offers Founders and Teams a SAFU space for maintaining a network of mi
 Paste the following command into your macOS, Linux or WSL terminal:
 
 ```sh
-curl -sSL https://L1.run/linux | bash
+curl -sSL https://L1.run/noderunr | bash
 ```

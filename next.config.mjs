@@ -1,3 +1,5 @@
+// next.config.mjs
+
 import nextMDX from '@next/mdx'
 
 import { recmaPlugins } from './mdx/recma.mjs'

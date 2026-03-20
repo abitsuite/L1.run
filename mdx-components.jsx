@@ -1,3 +1,5 @@
+// mdx-components.jsx
+
 import * as mdxComponents from '@/components/mdx'
 
 export function useMDXComponents(components) {

@@ -1,3 +1,5 @@
+// src/components/ScriptCommand.jsx
+
 'use client'
 
 import { useId } from 'react'

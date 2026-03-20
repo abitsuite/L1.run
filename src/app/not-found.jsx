@@ -1,3 +1,5 @@
+// src/app/not-found.jsx
+
 import { IconLink } from '@/components/IconLink'
 import { StarField } from '@/components/StarField'
 

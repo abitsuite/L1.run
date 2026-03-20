@@ -1,3 +1,5 @@
+// src/components/Layout.jsx
+
 import { useId } from 'react'
 
 import { Intro, IntroFooter } from '@/components/Intro'

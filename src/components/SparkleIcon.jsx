@@ -1,3 +1,5 @@
+// src/components/SparkleIcon.jsx
+
 export function SparkleIcon(props) {
     return (
         <svg viewBox="0 0 16 16" aria-hidden="true" {...props}>

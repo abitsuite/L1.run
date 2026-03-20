@@ -1,3 +1,5 @@
+// src/app/layout.jsx
+
 import Script from 'next/script'
 
 import { Inter } from 'next/font/google'

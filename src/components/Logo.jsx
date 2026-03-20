@@ -1,3 +1,5 @@
+// src/components/Logo.jsx
+
 import { useId } from 'react'
 
 export function Logo(props) {

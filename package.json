@@ -32,8 +32,10 @@
     "remark-gfm": "4.0.0",
     "remark-rehype-wrap": "0.0.3",
     "remark-unwrap-images": "4.0.0",
+    "sharp": "0.33.1",
     "shiki": "0.14.7",
     "tailwindcss": "3.4.1",
+    "typescript": "5.9.3",
     "unist-util-visit": "5.0.0",
     "video.js": "8.21.0",
     "videojs-contrib-quality-levels": "4.1.0",
@@ -44,9 +46,7 @@
     "eslint": "8.56.0",
     "eslint-config-next": "14.0.4",
     "prettier": "3.3.2",
-    "prettier-plugin-tailwindcss": "0.6.5",
-    "sharp": "0.33.1",
-    "typescript": "5.9.3"
+    "prettier-plugin-tailwindcss": "0.6.5"
   },
   "packageManager": "pnpm@9.15.4",
   "engines": {

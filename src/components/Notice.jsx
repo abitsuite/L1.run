@@ -81,7 +81,7 @@ export function NodeRunr() {
                                 />
                             </div>
 
-                            <div className="mx-auto flex size-14 items-center justify-center rounded-full bg-rose-700/20">
+                            {/* <div className="mx-auto flex size-14 items-center justify-center rounded-full bg-rose-700/20">
                                 <Image
                                     src={avaxLogo}
                                     width={0}
@@ -89,20 +89,9 @@ export function NodeRunr() {
                                     alt="Avalanche logo"
                                     className="size-8"
                                 />
-                            </div>
+                            </div> */}
 
-                            <div className="mt-3 text-center sm:mt-5">
-                                <DialogTitle as="h3" className="text-3xl font-semibold text-slate-600">
-                                    Avalanche <span className="text-4xl font-bold">Retro<i>9000</i></span>
-                                    <br />Submission
-                                </DialogTitle>
-
-                                <div className="my-2">
-                                    <p className="py-2 px-5 text-base text-slate-600 tracking-tight text-justify">
-                                        <span className="font-bold">Did you know — </span>
-                                        the Avalanche team is actively supporting the hard-work of their ecosystem #BUIDLers with retro funding?
-                                    </p>
-                                </div>
+                            <div className="mt-6 text-center sm:mt-10">
 
                                 <div className="flex justify-center sm:hidden border border-sky-500 rounded overflow-hidden">
                                     <VideoJS
@@ -141,6 +130,20 @@ export function NodeRunr() {
                                 ReadTheDocs
                                 <ArrowTopRightOnSquareIcon className="pl-1 size-5 text-sky-200" />
                             </Link>
+                        </div>
+
+                        <div className="mt-3">
+                                <DialogTitle as="h3" className="text-xl font-semibold text-slate-600">
+                                    Featured In
+                                    <br />Avalanche <span className="text-3xl font-bold">Retro<i>9000</i></span>
+                                </DialogTitle>
+
+                                {/* <div className="my-2">
+                                    <p className="py-2 px-5 text-base text-slate-600 tracking-tight text-justify">
+                                        <span className="font-bold">Did you know — </span>
+                                        the Avalanche team is actively supporting the hard-work of their ecosystem #BUIDLers with retro funding?
+                                    </p>
+                                </div> */}
                         </div>
 
                         <div className="mt-3">
